@@ -1,0 +1,203 @@
+                          PROGRAM: STAAD.Pro
+                          VERSION: 200x
+                14:13:58  ENTERING STAAD                                    
+                14:13:58  entering mainn                                    
+                14:13:58  START JOB INFORMATION                             
+                14:13:58  INPUT WIDTH 79                                    
+                14:13:58  UNIT METER MTON                                   
+                14:13:58  JOINT COORDINATES                                 
+                14:13:58  ENTERING JOINTC                                   
+                14:13:58  JOINTC NEWJ                                 200000
+                14:13:58  MAX NODE NO.                                  9979
+                14:13:58  MEMBER INCIDENCES                                 
+                14:13:58  ELEMENT INCIDENCES SH                             
+                14:13:58  ENTERING ELEMEN                                   
+                14:13:59  START GROUP DEFINITIO                             
+                14:13:59  ELEMENT PROPERTY                                  
+                14:13:59  ENTERING ELEMEN                                   
+                14:13:59  DEFINE MATERIAL START                             
+                14:13:59  MEMBER PROPERTY AMERI                             
+                14:13:59  MEMBER PROPERTY AMERI                             
+                14:13:59  MEMBER PROPERTY AMERI                             
+                14:13:59  CONSTANTS                                         
+                14:13:59  SUPPORTS                                          
+                14:13:59  ENTERING SUPPORT                                  
+                14:13:59  MEMBER RELEASE                                    
+                14:13:59  MEMBER OFFSET                                     
+                14:13:59  LOAD 1 LOADTYPE DEAD                              
+                14:13:59  DUPLICATE ELEMENT CHECK                           
+                14:13:59  CHECKING STRUCTURAL INTEGRITY                     
+                14:13:59  CHECK UNCONNECTED JOINTS AND                      
+                14:13:59  CALCULATE MAX JOINT CONNECTIVITY                  
+                14:13:59  MAX CONNECTIVITY                                16
+                14:13:59  CHECK MULTIPLE STRUCTURES                         
+                14:13:59  MINIMIZING MATRIX BANDWIDTH                       
+                14:13:59  ENTERING RENMBR2                                  
+                14:13:59  MINMAX=                                       6655
+                14:13:59  INTERCHANGES                                    11
+                14:13:59  MAXGBND=                                       213
+                14:13:59  MAXDIFF=                                       213
+                14:13:59  MINMAX =                                       212
+                14:13:59  ENTERING SUPPORT                                  
+                14:13:59  NRJOLD                                           0
+                14:14: 0  SUPPORT NOLD                                     0
+                14:14: 0  SUPPORT N                                    37479
+                14:14: 0  BEFORE LOADPR                                     
+                14:14: 0  REOPEN AS DIR                                    0
+                14:14: 0  ENTER LOADPR                                      
+                14:14: 0  PERFORM ANALYSIS                                  
+                14:14: 0  pdel iter                                        0
+                14:14: 0  MAXIMUM E =                           3.150001E+03
+                14:14: 0  MINIMUM E =                           3.098825E+02
+                14:14: 0  MBW DOF BAND=                                 1185
+                14:14: 0  NUMBER OF PRIMARY CASES                          7
+                14:14: 0  NUMBER OF CASES                                 32
+                14:14: 0  #OF CASES W/ELEM INMEMORY                       32
+                14:14: 0  MEMORY FOR MEMBER LOADS                    1211520
+                14:14: 0  MEMORY FOR PLATE LOADS                     1616128
+                14:14: 0  MEMORY FOR DISPLACEMENTS                   1336512
+                14:14: 0  MEMORY FOR REACTIONS                        222336
+                14:14: 0  BEFORE SOLVER 1                                   
+                14:14: 0  Start Input for Next Load Case                    
+                14:14: 0  case no=    1 seq. no=   1 idynl= 0               
+                14:14: 0  MASSSET                                          0
+                14:14: 0  LOADEND ISLAVE                                   0
+                14:14: 0  Start Input for Next Load Case                    
+                14:14: 0  case no=    2 seq. no=   2 idynl= 0               
+                14:14: 0  LOADEND ISLAVE                                   0
+                14:14: 0  Start Input for Next Load Case                    
+                14:14: 0  case no=    3 seq. no=   3 idynl= 0               
+                14:14: 0  LOADEND ISLAVE                                   0
+                14:14: 0  Start Input for Next Load Case                    
+                14:14: 0  case no=   12 seq. no=   4 idynl= 1               
+                14:14: 0  LOADEND ISLAVE                                   0
+                14:14: 0  LOADEND ISLAVE                                   0
+                14:14: 0  Start Input for Next Load Case                    
+                14:14: 0  case no=   13 seq. no=   5 idynl= 2               
+                14:14: 0  LOADEND ISLAVE                                   0
+                14:14: 0  Start Input for Next Load Case                    
+                14:14: 0  case no=   14 seq. no=   6 idynl= 3               
+                14:14: 0  LOADEND ISLAVE                                   0
+                14:14: 0  Start Input for Next Load Case                    
+                14:14: 0  case no=    4 seq. no=   7 idynl= 0               
+                14:14: 0  LOADEND ISLAVE                                   0
+                14:14: 0  NVPREV                                           0
+                14:14: 0  AMAXNON                               7.210860E+00
+                14:14: 0  IRECSIZL=                                     4000
+                14:14: 0  MTX BLOCKSIZE=                              119685
+                14:14: 0  MI=                                           1285
+                14:14: 0  NORECL=                                         30
+                14:14: 0  NORECL1=                                         1
+                14:14: 0  IWORD=                                       32000
+                14:14: 0  JRECSIZE=                                     4000
+                14:14: 0  IWORDJ=                                      32000
+                14:14: 0  IBYTE=                                           4
+                14:14: 0  JOINTS=                                       6961
+                14:14: 0  MEMBERS=                                      3155
+                14:14: 0  PLATES =                                      6313
+                14:14: 0  SOLIDS =                                         0
+                14:14: 0  NO. OF EQUATIONS=                            37479
+                14:14: 0  idyn=                                            4
+                14:14: 0  ipd=                                             0
+                14:14: 0  icablanl=                                        0
+                14:14: 0  ++ Processing Element Stiffness Matrix.           
+                14:14: 0  BANDWIDTH FROM ELEMENTS                       1185
+                14:14: 0  NV1                                              7
+                14:14: 0  ++ Processing Global Stiffness Matrix.            
+                14:14: 0  MBAND                                         1185
+                14:14: 0  NBLOCK                                         372
+                14:14: 0  NEQB                                           101
+                14:14: 0  NBLK                                             4
+                14:14: 1  Form Mtx Block                                  37
+                14:14: 1  Form Mtx Block                                  74
+                14:14: 1  Form Mtx Block                                 111
+                14:14: 1  Form Mtx Block                                 148
+                14:14: 1  Form Mtx Block                                 185
+                14:14: 1  Form Mtx Block                                 222
+                14:14: 1  Form Mtx Block                                 259
+                14:14: 1  Form Mtx Block                                 296
+                14:14: 1  Form Mtx Block                                 333
+                14:14: 1  Form Mtx Block                                 370
+                14:14: 1  ++ Processing Triangular Factorization-2.         
+                14:14: 1  NBLK                                             7
+                14:14: 3  Processing Matrix Block     71 of    372          
+                14:14: 7  Processing Matrix Block    148 of    372          
+                14:14:10  Processing Matrix Block    225 of    372          
+                14:14:15  Processing Matrix Block    302 of    372          
+                14:14:17  NBLOCK=                                        372
+                14:14:17  ++ Calculating Joint Displacement.                
+                14:14:17  forward substitute                                
+                14:14:18  back substitute                                   
+                14:14:18  end redld                                         
+                14:14:18  ++ Calculating Eigensolution.                     
+                14:14:18  MODAL CALC                                       0
+                14:14:18  NV=                                              7
+                14:14:18  MODES-IDYN1                                      4
+                14:14:19  NO. OF TRIAL VECTORS                            24
+                14:14:19  ITERATION LIMIT                                 20
+                14:14:19  SUBSPACE METHOD                                   
+                14:14:19  Subspace iteration   1 of upto  20                
+                14:14:20  Subspace iteration   2 of upto  20                
+                14:14:22  Subspace iteration   3 of upto  20                
+                14:14:23  Subspace iteration   4 of upto  20                
+                14:14:25  Subspace iteration   5 of upto  20                
+                14:14:26  Subspace iteration   6 of upto  20                
+                14:14:28  Subspace iteration   7 of upto  20                
+                14:14:29  Subspace iteration   8 of upto  20                
+                14:14:31  Subspace iteration   9 of upto  20                
+                14:14:32  Subspace iteration  10 of upto  20                
+                14:14:34  Subspace iteration  11 of upto  20                
+                14:14:35  NO. OF ITERATIONS USED                          11
+                14:14:37  ++ Calculating Response Spectrum Displacements.   
+                14:14:37  M_DAMP DAMP                                      0
+                14:14:37  M_DAMP IDAMPFIL                                  0
+                14:14:37  SPECTR INTLOG                                    0
+                14:14:37  M_DAMP DAMP                                      0
+                14:14:37  M_DAMP IDAMPFIL                                  0
+                14:14:37  SPECTR INTLOG                                    0
+                14:14:37  M_DAMP DAMP                                      0
+                14:14:37  M_DAMP IDAMPFIL                                  0
+                14:14:37  SPECTR INTLOG                                    0
+                14:14:37  ++ Calculating Element Forces & Reactions.        
+                14:14:37  M_DAMP DAMP                                      0
+                14:14:37  M_DAMP IDAMPFIL                                  0
+                14:14:38  M_DAMP DAMP                                      0
+                14:14:38  M_DAMP IDAMPFIL                                  0
+                14:14:39  M_DAMP DAMP                                      0
+                14:14:39  M_DAMP IDAMPFIL                                  0
+                14:14:40  MAX CM MEMORY (KILOWORDS)                     4242
+                14:14:40  AFTER SOLVER 1                                    
+                14:14:40  REOPEN AS SEQ                                    0
+                14:14:40  FINISH                                            
+                14:14:40  All Commands FINISHed                             
+                14:14:40  Compute Plate Stresses for GUI                    
+                14:14:41  ENTERING ESTRSSS                                  
+                14:14:41  M_DAMP DAMP                                      0
+                14:14:41  M_DAMP IDAMPFIL                                  0
+                14:14:42  ENTERING ESTRSSS                                  
+                14:14:42  M_DAMP DAMP                                      0
+                14:14:42  M_DAMP IDAMPFIL                                  0
+                14:14:42  ENTERING ESTRSSS                                  
+                14:14:42  M_DAMP DAMP                                      0
+                14:14:42  M_DAMP IDAMPFIL                                  0
+                14:15:31  DATASAVE for SPRO GUI                             
+                14:15:31  ++ Creating Displacement File (DSP)...            
+                14:15:33  ++ Creating Reaction File (REA)...                
+                14:15:33  ++ Creating Mode Shape File (MSH)...              
+                14:15:33  ++ Creating Section Force File (BEN)...           
+                14:15:33  ENTERING SECTN IQ=                            3155
+                14:15:33               NSEC=                              11
+                14:15:33             ISECTN=                               0
+                14:15:33  sectn do 925                                      
+                14:15:33  sectn do 932                                      
+                14:15:38  ++ Creating Section Force File (BMD)...           
+                14:15:40  ++ Creating Section Displace File (SEC)...        
+                14:15:40  ENTERING ENVLP1 ITYP1=                          -5
+                14:15:40  SECT DISPLACE                                     
+                14:15:40  envelp do 606                                     
+                14:15:43  ++ Creating Section Displace File (SCN)...        
+                14:15:45  ++ Creating Element Stress File (EST)...          
+                14:15:47  ++ Creating Element JT Stress File (EJT)...       
+                14:15:58  ++ Creating Element JT Force File (ECF)...        
+                14:16: 9  MAX CM MEMORY (KILOWORDS)                     4248
+                14:16: 9  DBS LONG SEC NAME                                 
